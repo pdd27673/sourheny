@@ -25,4 +25,5 @@ dist-ssr
 
 master
 master.pub
-dist/
+build/
+coverage/
