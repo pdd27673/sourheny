@@ -1,0 +1,21 @@
+// Vitest Snapshot v1
+
+exports[`renders correctly 1`] = `
+<div
+  className="container"
+>
+  <h1
+    className="title"
+  >
+    SOURHENY
+  </h1>
+  <h1
+    className="comingSoon"
+  >
+    <div
+      className="Typewriter"
+      data-testid="typewriter-wrapper"
+    />
+  </h1>
+</div>
+`;
